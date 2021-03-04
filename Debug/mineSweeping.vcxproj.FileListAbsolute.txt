@@ -1,0 +1,2 @@
+D:\homework\c\basic\mineSweeping\Debug\mineSweeping.exe
+D:\homework\c\basic\mineSweeping\Debug\mineSweeping.pdb
